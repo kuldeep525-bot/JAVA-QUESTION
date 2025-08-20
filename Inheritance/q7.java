@@ -13,9 +13,9 @@ class Person{
 }
 
 class Employee{
-  public void getEmployeeId()
+  public void getEmployeeId(String Employeeid)
   {
-    System.out.println("Employeeid"); 
+    System.out.println("Employeeid:"+Employeeid); 
   }
 
    public void getLastName(String lastname,String jobtitle)
@@ -34,5 +34,6 @@ class main{
 
     Employee obj2=new Employee();
     obj2.getLastName("kumar","software developer");
+    obj2.getEmployeeId("4121/24");
   }
 }
