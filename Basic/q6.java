@@ -1,0 +1,1 @@
+// 6. Write a Java program to swap two variables
