@@ -1,6 +1,5 @@
 // 5. Enter the double from user using Scanner class
 
-// 4. Enter the float from user using Scanner class
 
 
 import java.util.Scanner;
