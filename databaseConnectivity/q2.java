@@ -1,6 +1,5 @@
 // 2. Create the table in the database from Java API
 
-
 import java.sql.Connection;
 import java.sql.Statement;
 import java.sql.DriverManager;
